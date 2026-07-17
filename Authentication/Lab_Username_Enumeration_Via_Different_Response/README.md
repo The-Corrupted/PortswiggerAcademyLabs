@@ -1,4 +1,4 @@
-#Lab: Username enumeration via different responses
+# Lab: Username enumeration via different responses
 
 **Lab Goal**: Use differences in the username and password error messages to identify a valid user and brute-force their password.
 
