@@ -1,4 +1,4 @@
-#Lab: Username enumeration via subtly different responses
+# Lab: Username enumeration via subtly different responses
 
 **Lab Goal**: Use small differences in the page to identify valid users and then brute-force their password.
 
