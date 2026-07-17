@@ -1,4 +1,4 @@
-#Lab 2FA Broken Logic Writeup
+# Lab 2FA Broken Logic Writeup
 
 **Lab Goal**: Bypass 2FA to compromise Carlos' account
 
