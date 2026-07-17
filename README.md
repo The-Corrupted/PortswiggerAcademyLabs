@@ -1,9 +1,9 @@
-#Portswigger Academy Lab Solutions
+# Portswigger Academy Lab Solutions
 
 This is a collection of scripts I wrote to solve the Portswigger Academy labs for the various modules. The purpose of this repository is to keep a record
 of the scripts in case I need them later for the BSCP exam and to provide my reasoning and steps I took to solve the labs.
 
-##Why turbo intruder?
+## Why turbo intruder?
 
 Burp Suite Community Edition is the free edition of Burp Suite that I am using to solve the labs. Burp Suite Pro is a $500 annual subscription which is currently
 too expensive for me. I could start a free trial, however it's not obvious to me when I'll have completed enough of the modules and labs to qualify for the
@@ -14,7 +14,7 @@ rate-limiting, allowing you to complete labs on a free license in a reasonable a
 for each of your attacks rather than using the simpler GUI interface intruder provides. Because I do not want to wait all day for attacks to finish and
 am familiar with python, I have opted to use turbo intruder for all attacks that need it and save my scripts in a repository so I can reference them later.
 
-##Do all labs use intruder?
+## Do all labs use intruder?
 
 No. Some of the directories here will not contain a turbo intruder script because intruder capabilities were not required to complete the lab.
 These directories will just contain a README.md file that explains the lab and provides the steps I took to solve it.
