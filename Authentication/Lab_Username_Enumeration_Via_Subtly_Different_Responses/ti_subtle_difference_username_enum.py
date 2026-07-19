@@ -1,5 +1,5 @@
 usernames = []
-with open("$HOME/Documents/Python/PortswiggerAcademyScripts/Authentication/username.txt", "r") as f:
+with open("$HOME/Documents/Python/PortswiggerAcademyLabs/Authentication/username.txt", "r") as f:
     usernames = [x.strip() for x in f.readlines()]
 
 

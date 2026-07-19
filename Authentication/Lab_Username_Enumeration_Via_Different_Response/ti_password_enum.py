@@ -1,5 +1,5 @@
 passwords = []
-with open("$HOME/Documents/Python/PortswiggerAcademyScripts/Authentication/password.txt", "r") as f:
+with open("$HOME/Documents/Python/PortswiggerAcademyLabs/Authentication/password.txt", "r") as f:
     passwords = [x.strip() for x in f.readlines()]
 
 def queueRequests(target, wordlists):
